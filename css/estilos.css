@@ -1,0 +1,104 @@
+body{
+    background-color: #272727;
+    font-family: 'Rubik', sans-serif;
+    color: rgba(24, 20, 20, 0.083);
+}
+
+.barra {
+    color: rgb(87, 255, 255);
+}
+
+.textocarousel {
+color:#000000;
+background-color: #b67600;
+background-position: 0em;
+}
+
+.titulos {
+    color: #d19808;
+}
+
+.nosotros-p {
+    background-color: #381818;
+    color: rgb(230, 230, 230);
+}
+
+.body.parallax{
+    height: 250rem;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.parallax.image-2{
+background-image: url("/img/fondo2.jpg");
+}
+
+
+.p-2{
+    color: rgb(214, 142, 34)
+
+}
+
+.p-1{
+    color: rgb(255, 255, 255)
+}
+
+.nosotros-img {
+    background-color: #260a0a;
+}
+
+
+.tarjetas {
+
+    opacity: 70%;
+    transition: 1s;
+    border-radius: 1rem;
+    margin-top: 1rem;
+
+}
+
+.tarjetas:hover {
+    background-color: #c4c4c4;
+    opacity: 100%;
+}
+
+.tienda {
+    color: #8f8f8f;
+    background-color: #101010;
+    transition: 0.5s;
+}
+
+.modal-title {
+    color: rgb(255, 255, 255)
+}
+
+.tienda:hover {
+    color: #ce9e00;
+    background-color: #272727;
+}
+
+.ventana2 {
+    background-color: rgb(255, 177, 177);
+}
+
+.ventana {
+    background-color: rgb(28, 28, 28);
+}
+
+.formulario {
+    background-color: #000000;
+    border-radius: 1rem;
+}
+
+.form-label {
+    color: rgb(255, 255, 255)
+}
+.redes {
+    font-size: 2rem;
+    margin-left: 1.5rem;
+    color: #707070;
+}
